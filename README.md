@@ -1,1 +1,3 @@
-# Estadistica_con_R
+# Estadística con R
+
+##¡Bienvenido/a al curso "Estadística con R"!
